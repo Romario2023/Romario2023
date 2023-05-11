@@ -20,3 +20,6 @@ Se você quiser entrar em contato, pode me enviar uma mensagem aqui no GitHub ou
  -><a href="https://www.instagram.com/romerbarber/">Instagram<a>
   
 Estou sempre aberto(a) a novas oportunidades e parcerias.
+  
+  [![Romario Stats](https://github-readme-stats.vercel.app/api?username=Romario2023)](https://github.com/anuraghazra/github-readme-stats)
+ 
