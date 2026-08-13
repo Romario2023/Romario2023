@@ -27,12 +27,5 @@ Caso queira entrar em contato, pode me enviar uma mensagem aqui no GitHub ou atr
   <br> 
   <a href="https://api.whatsapp.com/send?phone=62 98145-8311" target="_blank"><img img width="55px" src="https://th.bing.com/th/id/OIP.kK6IKSaln__Uqa0jR9orUwHaFQ?rs=1&pid=ImgDetMain"></a>
   <br>
-  
-
-  
-  [![Romario Stats](https://github-readme-stats.vercel.app/api?username=Romario2023)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romario2023)](https://github.com/anuraghazra/github-readme-stats)
 
  <strong>Estou sempre aberto(a) a novas oportunidades e parcerias.</strong>
