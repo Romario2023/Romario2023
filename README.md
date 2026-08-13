@@ -21,10 +21,10 @@ Neste perfil do GitHub, você encontrará alguns dos meus projetos pessoais e co
 <br>
 Caso queira entrar em contato, pode me enviar uma mensagem aqui no GitHub ou através das minhas redes sociais.
 <br>
-<a href="https://www.linkedin.com/in/romario-haylton-755073160/" alt="linkedin"><img width="40px" src="https://th.bing.com/th?q=LinkedIn+Logo+30X30&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247"><a>
+<a href="https://www.linkedin.com/in/romario-haylton-755073160/" alt="linkedin"><img width="55px" src="https://th.bing.com/th?q=LinkedIn+Logo+30X30&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247"><a>
   <br>
-<a href="https://www.instagram.com/romerbarber/"><img width="50px" src="https://th.bing.com/th/id/OIP.jwRtp5SKt8EkQ92PEewxKwHaHW?rs=1&pid=ImgDetMain"><a>
-  <br> 
+<a href="https://www.instagram.com/romerbarber/"><img width="55px" src="https://th.bing.com/th/id/OIP.jwRtp5SKt8EkQ92PEewxKwHaHW?rs=1&pid=ImgDetMain"><a>
+  <br>
   <a href="https://api.whatsapp.com/send?phone=62 98145-8311" target="_blank"><img img width="55px" src="https://th.bing.com/th/id/OIP.kK6IKSaln__Uqa0jR9orUwHaFQ?rs=1&pid=ImgDetMain"></a>
   <br>
 
